@@ -4,12 +4,11 @@ Every canon decision, newest first. When Claire decides something, record it her
 
 ## Open Decisions
 
-| ID | Book | Question | Options | Raised |
-| --- | --- | --- | --- | --- |
-| D-011 | MF | First name for the Ch 1 soldier (surname now Bernard) | Clashes with David Taylor; needs a new first name | D-010 follow-up |
+None open.
 
 ## Confirmed Decisions (16 November 2026)
 
+- **D-011 Ch 1 soldier's first name:** Noah. Noah Bernard. Closes the last open D-010 clash.
 - **D-001 Ayla's backstory:** the Ch 4 version is canon. Ayla grew up in a hidden family living among humans; her parents and her brother Daniel were killed by the Order in winter 2080; she has been alone for ten years. The Prologue's clan, Moon-Shadows Council and grandmother account is to be revised to match.
 - **D-002 Ayla's age:** 24 in 2090 (born 2066). The Prologue's "thirty-one" and "twenty-four years of being alone" change.
 - **D-003 Ayla's first shift:** age 12, which follows from the Ch 4 version (Ch 9's "thirteen" changes).
@@ -20,9 +19,7 @@ Every canon decision, newest first. When Claire decides something, record it her
 - **D-008 Length of the war in 2090:** 49 years, from the Christmas Eve 2041 uprising. Every "sixty" and "seventy" years reference is changed to match, except where "seventy years" refers to persecution before 2041 (kept as a distinct figure).
 - **D-009 Point-of-view policy:** ensemble with scene breaks. Minor-character POV shifts that earn their place stay, each marked with a `***` scene break; shifts that only relay information the leads could learn another way are cut. **Style Guide action:** the "one POV per chapter" rule is revised to describe this ensemble convention.
 
-- **D-010 New names for the open clashes:** confirmed (see `reserved-names.md`'s Retired Draft Names for the full list) — Magistrate Thurbon, Lieutenant Lotz, Rachel Stanley, Hana Yamamoto, Director Zhao, Liliana Moreno (Ayla's mother), Rose De Castro (was Lena Moreno — first name only clashed, with Lena Castellan; full rename given), Zuri, Enzo, Haruto, Commander Salvador, Sergeant Rourke, Marchetti, Isaac, Ravi, Carina, Ophelia, Ironwell. One follow-up spun off as D-011: the Ch 1 soldier's surname is now Bernard, but his first name "David" still clashes with David Taylor and needs Claire's choice.
-
-## Confirmed Decisions (Before November 2026 Audit)
+- **D-010 New names for the open clashes:** confirmed (see `reserved-names.md`'s Retired Draft Names for the full list) — Magistrate Thurbon, Lieutenant Lotz, Rachel Stanley, Hana Yamamoto, Director Zhao, Liliana Moreno (Ayla's mother), Rose De Castro (was Lena Moreno — first name only clashed, with Lena Castellan; full rename given), Zuri, Enzo, Haruto, Commander Salvador, Sergeant Rourke, Marchetti, Isaac, Ravi, Carina, Ophelia, Ironwell. ## Confirmed Decisions (Before November 2026 Audit)
 
 Recorded from earlier revision sessions.
 

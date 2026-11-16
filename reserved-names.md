@@ -56,7 +56,7 @@ Never use these again, for anyone.
 | Elena Morozov, Elena Vasquez, Elena Voronova | Adriana Morozov, Maria Vasquez, Tatiana Voronova |
 | Martinez (the judge) | Mario Cruz (the MF soldier keeps Martinez) |
 | Yuki Tanaka (MF Sovereignty operative) | Hana Sato (MF Ch 40; now clashes with Dr Elena Sato) |
-| David Reeves / Reyes (Ch 1), surname | David Bernard (MF) — first name "David" still flagged, see Clashes Still Open |
+| David Reeves / Reyes (Ch 1) | Noah Bernard (MF) |
 
 ## Reserved First Names
 
@@ -70,9 +70,10 @@ Never use these again, for anyone.
 
 ## Reserved Surnames
 
-Ashford, Morrison, Sato, Greaves, Castellan, Larsen, Valois, Briggs, Bauer, Venn, Keahi, Volkov, Tanaka, Taylor, Thomas, Armstrong, Moreno, Barrett, Peters, Finch, Thurbon, Lotz, Stanley, Yamamoto, Zhao, De Castro, Salvador, Rourke, Marchetti.
+Ashford, Morrison, Sato, Greaves, Castellan, Larsen, Valois, Briggs, Bauer, Venn, Keahi, Volkov, Tanaka, Taylor, Thomas, Armstrong, Moreno, Barrett, Peters, Finch, Thurbon, Lotz, Stanley, Yamamoto, Zhao, De Castro, Salvador, Rourke, Marchetti, Bernard.
 
 ## Clashes Still Open
 
 - The Ch 40 student "Elena": no longer a clash once Ayla's mother becomes Liliana Moreno (D-010) — the student keeps "Elena."
-- **David (Ch 1 soldier, surname now Bernard):** first name still clashes with David Taylor (Rory's father, EN/BR) under the trilogy-wide naming rule. Not related. Awaiting Claire's choice of first name.
+
+None outstanding.
