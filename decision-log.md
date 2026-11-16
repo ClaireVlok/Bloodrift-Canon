@@ -6,16 +6,19 @@ Every canon decision, newest first. When Claire decides something, record it her
 
 | ID | Book | Question | Options | Raised |
 | --- | --- | --- | --- | --- |
-| D-001 | MF | Ayla's backstory | Prologue version (clan, grandmother, aged 31) or Ch 4 version (hidden family, alone since 2080) | MF audit, CON-001 |
-| D-002 | MF | Ayla's age in 2090 | 31 (Prologue) or 24 (Ch 4 arithmetic) | MF audit |
-| D-003 | MF | Ayla's first shift | Age 12 or 13 | MF audit |
-| D-004 | MF, EN | Moonfall Epilogue year | 2095, a few weeks before EN Day 0 (recommended) or c. 2091 | MF audit |
-| D-005 | MF, EN | How Esme and Rory first meet | MF Epilogue (Lunaria cargo bay) or EN Prologue (neutral territory, border guards) | MF audit |
-| D-006 | Series | What the Singe Protocol is | A single planned genocide (Bible) or a long-running procedure (MF Ch 44) | MF audit |
 | D-007 | MF | The sanctuary's form in Ch 33-36 | Canopy throughout, or a second, underground refuge | MF audit |
 | D-008 | MF | Length of the war in 2090 | 49 years (recommended) | MF audit |
 | D-009 | MF | Point-of-view policy | Ensemble with scene breaks, or one POV per chapter | MF audit, section 4.2 |
 | D-010 | MF | New names for the open clashes | See `reserved-names.md` | MF audit |
+
+## Confirmed Decisions (16 November 2026)
+
+- **D-001 Ayla's backstory:** the Ch 4 version is canon. Ayla grew up in a hidden family living among humans; her parents and her brother Daniel were killed by the Order in winter 2080; she has been alone for ten years. The Prologue's clan, Moon-Shadows Council and grandmother account is to be revised to match.
+- **D-002 Ayla's age:** 24 in 2090 (born 2066). The Prologue's "thirty-one" and "twenty-four years of being alone" change.
+- **D-003 Ayla's first shift:** age 12, which follows from the Ch 4 version (Ch 9's "thirteen" changes).
+- **D-004 Moonfall Epilogue year:** 2095 (AE 5), a few weeks before EN Day 0. Add a time marker; revise the lines that imply about a year after the Accord.
+- **D-005 Esme and Rory's first meeting:** the Moonfall Epilogue version is canon (a Lunaria cargo bay; Esme clears Rory past coalition security). **Action for EN:** change the EN Prologue sentence about meeting in neutral territory to match. Related EN decision: D4 (what Lunaria knew about vampires before the Prologue).
+- **D-006 Singe Protocol:** a long-running Order policy of executing settlement elders, escalated in Moonfall into an area firebombing of the sanctuary's sectors, and ended by the Accord. **Bible action:** update the glossary entry ("a planned genocidal response, prevented in Moonfall").
 
 ## Confirmed Decisions (Before November 2026 Audit)
 

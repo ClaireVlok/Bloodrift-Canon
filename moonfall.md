@@ -16,7 +16,7 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | Ayla's family killed | Winter 2080 | LOCKED | Ch 4, Ch 9 |
 | Sanctuary founded | 11 years ago (2079) by Robert and Bridget Brown | PROPOSED | Ch 6, Ch 10, Ch 19, Ch 32, Ch 36 (15, 20 and 50 also appear) |
 | Caleb and Ayla marry | 2090, one month after the coalition forms | LOCKED | Bible 5, 8; Ch 46 |
-| Epilogue year | 2095 (AE 5), a few weeks before EN Day 0 | DECISION NEEDED | Kai, Valois and smuggling figures only work in 2095 |
+| Epilogue year | 2095 (AE 5), a few weeks before EN Day 0 | LOCKED | Claire, D-004 |
 
 ## 2. Characters
 
@@ -27,10 +27,10 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | Caleb Armstrong | Joined the Order | Age 14, recruited by Ryder | PROPOSED (Ch 2, Ch 3) |
 | Caleb Armstrong | Years of service | 16 | PROPOSED (4, 7, 8, 12 and 17 also appear) |
 | Mia Armstrong | Age at death | 10 | LOCKED (Ch 2, Ch 7) |
-| Ayla Moreno | Age in 2090 | 31 or 24 | DECISION NEEDED (Prologue vs Ch 4 arithmetic) |
-| Ayla Moreno | Backstory | Prologue (clan, grandmother) or Ch 4 (hidden family, alone since 2080) | DECISION NEEDED |
-| Ayla Moreno | Years alone | 10 (since 2080) | PROPOSED |
-| Ayla Moreno | First shift | Age 12 or 13 | DECISION NEEDED |
+| Ayla Moreno | Age in 2090 | 24 (born 2066) | LOCKED (Claire, D-002) |
+| Ayla Moreno | Backstory | Ch 4: hidden family among humans; shift at 12; two years on the run; family killed winter 2080 | LOCKED (Claire, D-001) |
+| Ayla Moreno | Years alone | 10 (since 2080, aged 14) | LOCKED (follows D-001) |
+| Ayla Moreno | First shift | Age 12 | LOCKED (follows D-001) |
 | Ayla Moreno | Father | Alec Moreno | LOCKED (Bible 9) |
 | Ayla Moreno | Mother | Not Elena (new name needed) | DECISION NEEDED |
 | Ayla Moreno | Brother | Daniel, four years older | LOCKED (Ch 4) |
@@ -56,7 +56,7 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | A bite does not transmit the condition | PROPOSED (needs one line in Ch 14) |
 | No modern place names (no Oregon, Seattle, Portland, Vancouver) | LOCKED (Bible 2, 12.1) |
 | The sanctuary is a canopy settlement in an oak forest | PROPOSED (Ch 33-36 describe rock tunnels) |
-| What the Singe Protocol is | DECISION NEEDED (an incendiary strike, an elder-execution procedure, or both) |
+| Singe Protocol: a long-running elder-execution policy, escalated in Moonfall into an area firebombing; ended by the Accord | LOCKED (Claire, D-006) |
 
 ## 4. Master Timeline
 

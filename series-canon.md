@@ -27,8 +27,8 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | 2096 | AE 6 | Finn Barrett's hybrid transformation, age 42 | LOCKED (Bible 8) |
 | 2098 | AE 8 | Blood Reckoning: siege; The Single Species published; Valois captured | LOCKED (Bible 6, 8) |
 | c. 2100 | AE 10 | Dr Yuki Tanaka dies peacefully | LOCKED (Bible 6, 8) |
-| ? | | Moonfall Epilogue (2095 recommended) | DECISION NEEDED |
-| ? | | How and where Esme and Rory first meet (MF Epilogue vs EN Prologue) | DECISION NEEDED |
+| 2095 | AE 5 | Moonfall Epilogue, a few weeks before EN Day 0 | LOCKED (Claire, D-004) |
+| 2095 | AE 5 | Esme and Rory first meet in a Lunaria cargo bay (MF Epilogue) | LOCKED (Claire, D-005) |
 
 ### Eternal Night Countdown
 
@@ -43,7 +43,7 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | Character | Species | Key facts | Books |
 | --- | --- | --- | --- |
 | Caleb Armstrong | Human | Born c. 2061; 37 in BR; married to Ayla in 2090 | MF, EN (minor), BR |
-| Ayla Moreno | Werewolf | Father Alec Moreno (deceased) | MF, BR |
+| Ayla Moreno | Werewolf | Born 2066 (24 in 2090; 32 in BR); father Alec Moreno and brother Daniel killed in 2080 | MF, BR |
 | Esme Thomas | Human | Married to Rory Taylor; soldier, then commander, then stateswoman | MF, EN, BR |
 | Erik Ryder | Human | Order commander; field camp, not Lunaria hospital; executed in MF | MF, EN (memory) |
 | Rory Taylor | Human | Aurora Taylor; born c. 2071; 24 in EN; born in Compound Seven; parents David and Sara Taylor (executed); brother Kai (died 2089, age 12); six years smuggling via the Grey Zone | EN, BR |
@@ -92,4 +92,4 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | Hybrid viability: 60% success, 40% failure | LOCKED |
 | Common origin: 99.4% genetic similarity, published in BR as The Single Species | LOCKED |
 | The Memorial Wall is remembrance and accountability, never a victory monument | LOCKED |
-| The Singe Protocol: a single planned genocide (Bible) or a long-running procedure (MF) | DECISION NEEDED |
+| The Singe Protocol: a long-running Order policy of executing settlement elders, escalated in Moonfall into an area firebombing; ended by the Accord | LOCKED (Claire, D-006) |
