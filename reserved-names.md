@@ -8,6 +8,24 @@ Never use these again, for anyone.
 
 | Retired name | Now |
 | --- | --- |
+| Magistrate Ashford | Magistrate Thurbon (MF) |
+| Lieutenant Morrison | Lieutenant Lotz (MF) |
+| Rachel Morrison | Rachel Stanley (MF) |
+| Hana Sato (MF Ch 40) | Hana Yamamoto (MF) |
+| Director Sato | Director Zhao (MF) |
+| Ayla's mother "Elena" | Liliana Moreno (MF) |
+| Lena Moreno | Rose De Castro (MF) |
+| Sara (Ch 34) | Zuri (MF) |
+| Marcus (Ch 34 trainer) | Enzo (MF) |
+| Chen (advisor) | Haruto (MF) |
+| Commander Vance | Commander Salvador (MF) |
+| Sergeant Holt | Sergeant Rourke (MF) |
+| Reyes (Ch 36) | Marchetti (MF) |
+| Second Luca (Ch 36) | Isaac (MF) |
+| Second Santiago (Ch 25) | Ravi (MF) |
+| Second Hana (Ch 32) | Carina (MF) |
+| Mira (Ch 36) | Ophelia (MF) |
+| Ironhaulk | Ironwell (MF, place name) |
 | Caleb Ravenstoke, Caleb Blackwood | Caleb Armstrong |
 | Maeve Thomas | Esme Thomas |
 | Finn Mercer, Reeves, Hawthorne | Finn Barrett |
@@ -38,6 +56,7 @@ Never use these again, for anyone.
 | Elena Morozov, Elena Vasquez, Elena Voronova | Adriana Morozov, Maria Vasquez, Tatiana Voronova |
 | Martinez (the judge) | Mario Cruz (the MF soldier keeps Martinez) |
 | Yuki Tanaka (MF Sovereignty operative) | Hana Sato (MF Ch 40; now clashes with Dr Elena Sato) |
+| David Reeves / Reyes (Ch 1), surname | David Bernard (MF) — first name "David" still flagged, see Clashes Still Open |
 
 ## Reserved First Names
 
@@ -45,14 +64,15 @@ Never use these again, for anyone.
 | --- | --- |
 | Marcus | Marcus Bauer, Marcus Venn |
 | Elena | Elena Greaves (EN), Dr Elena Sato (BR) |
-| Lena | Lena Castellan |
+| Lena | Lena Castellan (Lena Moreno in MF renamed to Rose De Castro, D-010) |
 | David, Sara, Kai | The Taylor family (Kai Junior is named after Kai, and the text must say so) |
 | Yuki | Dr Yuki Tanaka |
 
 ## Reserved Surnames
 
-Ashford, Morrison, Sato, Greaves, Castellan, Larsen, Valois, Briggs, Bauer, Venn, Keahi, Volkov, Tanaka, Taylor, Thomas, Armstrong, Moreno, Barrett, Peters, Finch.
+Ashford, Morrison, Sato, Greaves, Castellan, Larsen, Valois, Briggs, Bauer, Venn, Keahi, Volkov, Tanaka, Taylor, Thomas, Armstrong, Moreno, Barrett, Peters, Finch, Thurbon, Lotz, Stanley, Yamamoto, Zhao, De Castro, Salvador, Rourke, Marchetti.
 
 ## Clashes Still Open
 
-Logged in the Moonfall audit, awaiting new names (see `decision-log.md`): Magistrate Ashford; Lieutenant Morrison; Rachel Morrison; Hana Sato and Director Sato; Ayla's mother Elena; the Ch 40 student Elena; Lena Moreno; Sara (Ch 34); Marcus (Ch 34 trainer); Chen (advisor); Commander Vance; Sergeant Holt; David Reeves; Reyes/Reeves (Ch 1) and Reyes (Ch 36); the second Luca (Ch 36); the second Santiago (Ch 25); the second Hana (Ch 32); Mira (Ch 36); Ironhaulk.
+- The Ch 40 student "Elena": no longer a clash once Ayla's mother becomes Liliana Moreno (D-010) — the student keeps "Elena."
+- **David (Ch 1 soldier, surname now Bernard):** first name still clashes with David Taylor (Rory's father, EN/BR) under the trilogy-wide naming rule. Not related. Awaiting Claire's choice of first name.

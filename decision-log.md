@@ -6,7 +6,7 @@ Every canon decision, newest first. When Claire decides something, record it her
 
 | ID | Book | Question | Options | Raised |
 | --- | --- | --- | --- | --- |
-| D-010 | MF | New names for the open clashes | See `reserved-names.md` | MF audit |
+| D-011 | MF | First name for the Ch 1 soldier (surname now Bernard) | Clashes with David Taylor; needs a new first name | D-010 follow-up |
 
 ## Confirmed Decisions (16 November 2026)
 
@@ -19,6 +19,8 @@ Every canon decision, newest first. When Claire decides something, record it her
 - **D-007 Sanctuary's physical form:** canopy throughout. Ch 33-36 are recast in the trees (platforms, rope bridges, the common hall as a raised longhouse), with one escape route down to the forest floor. The rock-tunnel language in those chapters is replaced.
 - **D-008 Length of the war in 2090:** 49 years, from the Christmas Eve 2041 uprising. Every "sixty" and "seventy" years reference is changed to match, except where "seventy years" refers to persecution before 2041 (kept as a distinct figure).
 - **D-009 Point-of-view policy:** ensemble with scene breaks. Minor-character POV shifts that earn their place stay, each marked with a `***` scene break; shifts that only relay information the leads could learn another way are cut. **Style Guide action:** the "one POV per chapter" rule is revised to describe this ensemble convention.
+
+- **D-010 New names for the open clashes:** confirmed (see `reserved-names.md`'s Retired Draft Names for the full list) — Magistrate Thurbon, Lieutenant Lotz, Rachel Stanley, Hana Yamamoto, Director Zhao, Liliana Moreno (Ayla's mother), Rose De Castro (was Lena Moreno — first name only clashed, with Lena Castellan; full rename given), Zuri, Enzo, Haruto, Commander Salvador, Sergeant Rourke, Marchetti, Isaac, Ravi, Carina, Ophelia, Ironwell. One follow-up spun off as D-011: the Ch 1 soldier's surname is now Bernard, but his first name "David" still clashes with David Taylor and needs Claire's choice.
 
 ## Confirmed Decisions (Before November 2026 Audit)
 
