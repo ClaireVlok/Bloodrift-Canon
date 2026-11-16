@@ -10,7 +10,7 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | --- | --- | --- | --- |
 | Story year (Prologue to Accord) | 2090 (AE 0) | LOCKED | Bible 6, 8; Ch 1 (Ryder 12 in 2041, 61 now) |
 | 2041 uprising | Christmas Eve 2041 | LOCKED | Ch 1 |
-| Length of the war in 2090 | 49 years | PROPOSED | Ch 1, Ch 7 (60 and 70 years also appear) |
+| Length of the war in 2090 | 49 years | LOCKED (Claire, D-008) | Ch 1, Ch 7 (60 and 70 to be changed) |
 | Convoy massacre | Late August 2074 | LOCKED | Ch 2 |
 | Nuclear strikes | Winter 2046 | LOCKED | Ch 1 |
 | Ayla's family killed | Winter 2080 | LOCKED | Ch 4, Ch 9 |
@@ -55,10 +55,16 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | Silver and direct sunlight harm werewolves and vampires | LOCKED (Bible 3, 12.3) |
 | A bite does not transmit the condition | PROPOSED (needs one line in Ch 14) |
 | No modern place names (no Oregon, Seattle, Portland, Vancouver) | LOCKED (Bible 2, 12.1) |
-| The sanctuary is a canopy settlement in an oak forest | PROPOSED (Ch 33-36 describe rock tunnels) |
+| The sanctuary is a canopy settlement in an oak forest throughout, including Ch 33-36 | LOCKED (Claire, D-007) |
 | Singe Protocol: a long-running elder-execution policy, escalated in Moonfall into an area firebombing; ended by the Accord | LOCKED (Claire, D-006) |
 
-## 4. Master Timeline
+## 4. Craft Decisions
+
+| Item | Decision | Status |
+| --- | --- | --- |
+| Point-of-view policy | Ensemble with scene breaks: minor-character POV shifts that earn their place stay, marked with `***`; shifts that only relay information the leads could learn another way are cut | LOCKED (Claire, D-009) |
+
+## 5. Master Timeline
 
 To be built in Phase 3, day by day from the Prologue to the Accord. Each entry records the day, what happens, the chapter, and the moon phase.
 

@@ -6,9 +6,6 @@ Every canon decision, newest first. When Claire decides something, record it her
 
 | ID | Book | Question | Options | Raised |
 | --- | --- | --- | --- | --- |
-| D-007 | MF | The sanctuary's form in Ch 33-36 | Canopy throughout, or a second, underground refuge | MF audit |
-| D-008 | MF | Length of the war in 2090 | 49 years (recommended) | MF audit |
-| D-009 | MF | Point-of-view policy | Ensemble with scene breaks, or one POV per chapter | MF audit, section 4.2 |
 | D-010 | MF | New names for the open clashes | See `reserved-names.md` | MF audit |
 
 ## Confirmed Decisions (16 November 2026)
@@ -19,6 +16,9 @@ Every canon decision, newest first. When Claire decides something, record it her
 - **D-004 Moonfall Epilogue year:** 2095 (AE 5), a few weeks before EN Day 0. Add a time marker; revise the lines that imply about a year after the Accord.
 - **D-005 Esme and Rory's first meeting:** the Moonfall Epilogue version is canon (a Lunaria cargo bay; Esme clears Rory past coalition security). **Action for EN:** change the EN Prologue sentence about meeting in neutral territory to match. Related EN decision: D4 (what Lunaria knew about vampires before the Prologue).
 - **D-006 Singe Protocol:** a long-running Order policy of executing settlement elders, escalated in Moonfall into an area firebombing of the sanctuary's sectors, and ended by the Accord. **Bible action:** update the glossary entry ("a planned genocidal response, prevented in Moonfall").
+- **D-007 Sanctuary's physical form:** canopy throughout. Ch 33-36 are recast in the trees (platforms, rope bridges, the common hall as a raised longhouse), with one escape route down to the forest floor. The rock-tunnel language in those chapters is replaced.
+- **D-008 Length of the war in 2090:** 49 years, from the Christmas Eve 2041 uprising. Every "sixty" and "seventy" years reference is changed to match, except where "seventy years" refers to persecution before 2041 (kept as a distinct figure).
+- **D-009 Point-of-view policy:** ensemble with scene breaks. Minor-character POV shifts that earn their place stay, each marked with a `***` scene break; shifts that only relay information the leads could learn another way are cut. **Style Guide action:** the "one POV per chapter" rule is revised to describe this ensemble convention.
 
 ## Confirmed Decisions (Before November 2026 Audit)
 
