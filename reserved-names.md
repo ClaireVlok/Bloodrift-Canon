@@ -57,6 +57,11 @@ Never use these again, for anyone.
 | Martinez (the judge) | Mario Cruz (the MF soldier keeps Martinez) |
 | Yuki Tanaka (MF Sovereignty operative) | Hana Sato (MF Ch 40; now clashes with Dr Elena Sato) |
 | David Reeves / Reyes (Ch 1) | Noah Bernard (MF) |
+| Yuki Tanaka (EN Ch 4 mother) | Tessa Ferreira (EN) |
+| Chen (EN: Maris, Lei, Sarah) | Hartmann (Maris, Lei), Sarah Whitlock (EN) |
+| David Okonkwo, David Park, David Thornton (EN) | Samuel Okonkwo, Owen Park, Gareth Thornton (EN) |
+| Derek Osmond, Elias Markov (EN) | Lyndon Blake, Eli Carver (EN) |
+| Sandra Martinez, "Ashford" (Nighthaven ruler) (EN) | Mario Cruz, Lucien Devereux (EN) |
 
 ## Reserved First Names
 
