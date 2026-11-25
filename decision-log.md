@@ -4,7 +4,7 @@ Every canon decision, newest first. When Claire decides something, record it her
 
 ## Open Decisions
 
-None open.
+- **XBK note for Blood Reckoning (flagged from Moonfall Phase 11, 25 November 2026):** Moonfall plants Finn's protein-variant discovery as a two-part seed across the manuscript: the three Lunaria human subjects in Ch 21 (unexplained protein variant, adjacent to a classified pre-consolidation study he half-remembers), and the six New Eden trade witnesses in the Epilogue (same unknown biological protein marker, no human or werewolf analogue). Moonfall's own text now explicitly connects these two findings to each other (Epilogue edit, Phase 11). When BR Chs 20-21's Compound Eight scene is revised, Nina/Finn's presentation there should explicitly recall both earlier Moonfall findings, so the Compound Eight discovery reads as the payoff of a long-planted seed rather than a third, unlinked finding. Not yet actioned: Blood-Reckoning-Revision's GitHub repo exists but is currently empty, so this can only be checked against `br_complete.docx` for now, not against live chapter files.
 
 ## Confirmed Decisions (25 November 2026)
 
