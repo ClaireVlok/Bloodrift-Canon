@@ -47,7 +47,7 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | Esme Thomas | Human | Married to Rory Taylor; soldier, then commander, then stateswoman | MF, EN, BR |
 | Erik Ryder | Human | Order commander; field camp, not Lunaria hospital; executed in MF | MF, EN (memory) |
 | Rory Taylor | Human | Aurora Taylor; born c. 2071; 24 in EN; born in Compound Seven; parents David and Sara Taylor (executed); brother Kai (died 2087, age 12, born c. 2075); eight years smuggling via the Grey Zone | EN, BR |
-| Anton Castellan | Vampire | 200+ years; daughter Lena died c. 250 years ago, age 17 ("Individual action matters, Father"); 52 years serving Valois | EN, BR |
+| Anton Castellan | Vampire | 200+ years; daughter Lena died c. 250 years ago, age 17 ("Individual action matters, Father"), when Anton was still human (D-015); a vampire about 250 years; 52 years serving Valois | EN, BR |
 | Sebastian Larsen | Vampire | 150+ years; economist and administrator | EN, BR |
 | Octavius Valois | Vampire | Governor of New Eden; captured, not killed, in BR | EN, BR |
 | Viktor Ashford | Vampire | Valois's head of security; seeded in EN Chs 20-25 | EN, BR |
@@ -61,7 +61,7 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | Elder Tobias Finch | Werewolf | Verdant Council elder; witnesses the Accord; dies in MF Ch 48 | MF, BR (memory) |
 | Dr Cassius Briggs | Vampire | Valois's medical overseer | EN |
 | Governor Patricia Morrison | Human | Northern Territories | BR |
-| Elena Greaves | Human | Resistance leader; in her 60s (D-014) | EN |
+| Elena Greaves | Human | Resistance leader; in her 60s, about 11 when Valois took power (D-014) | EN |
 
 ## 4. Places
 

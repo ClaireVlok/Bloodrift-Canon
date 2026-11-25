@@ -8,8 +8,10 @@ Every canon decision, newest first. When Claire decides something, record it her
 
 ## Confirmed Decisions (25 November 2026, Eternal Night)
 
+- **D-015 Anton's turning:** the EN Ch 5 version is canon. Anton was human when Lena died (c. 250 years ago, aged 17); a vampire told him transition might save her and he begged him to try; she was too weak and died on the third day; Anton accepted the same offer days later. Anton has been a vampire about 250 years (the "200+" in series-canon is shorthand). **Applied in EN:** Ch 8 P104, Ch 19 P203, Ch 21 P108, Ch 25. **Bible action:** correct Anton's profile.
+- **D-016 EN ending (agreed in principle):** cut EN Ch 37 and end EN on the Epilogue's buzzing devices so BR's Prologue and Ch 1 tell the Sovereignty attack once. Not yet executed; to be checked against BR first.
 - **D-013 Kai's death and the Taylor family timeline:** Kai died in 2087, aged 12, eight years before EN Day 0 (2095). Rory (born c. 2071) is 24 in EN and was 16 when he died. Kai was born c. 2075, four years younger than Rory. Arrest: Rory 10, Kai 6; execution two years later (Rory 12, Kai 8). Rory began smuggling the day after Kai's funeral, so she has been smuggling **eight** years (not six). In BR (2098) Kai died **eleven** years ago (not nine). **Applied:** Moonfall Epilogue (three "six years" references changed to eight). **To apply:** EN Prologue, Ch 4, Ch 32 (EN revision); BR "nine years ago" lines (BR revision; BR repo is empty).
-- **D-014 Elena Greaves's age:** in her 60s. She was born after Valois took power (c. 2043) and so has no personal memory of freedom; lines in which she remembers it (EN Prologue P47, Ch 1, Ch 12) change to second-hand knowledge. Exact age, her husband's death and her service history to be set in the EN revision.
+- **D-014 Elena Greaves's age:** in her 60s (born c. 2032), so she was about eleven when Valois took power (c. 2043) and remembers freedom as a child. Her Prologue line is now "I was eleven when Valois took control"; she has governed-under for 52 years. Her daughter, executed at 23, and the rest of her history are unchanged. (Correction: an earlier version of this entry said she had no memory of freedom; that was wrong, since a woman in her 60s in 2095 was a child in 2043.)
 
 ## Confirmed Decisions (25 November 2026)
 
