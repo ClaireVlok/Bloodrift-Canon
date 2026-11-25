@@ -55,7 +55,7 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | Silver and direct sunlight harm werewolves and vampires | LOCKED (Bible 3, 12.3) |
 | A bite does not transmit the condition | PROPOSED (needs one line in Ch 14) |
 | No modern place names (no Oregon, Seattle, Portland, Vancouver) | LOCKED (Bible 2, 12.1) |
-| The sanctuary is a canopy settlement in an oak forest throughout, including Ch 33-36 | LOCKED (Claire, D-007) |
+| The sanctuary has two levels: a canopy settlement in an oak forest (Ch 5-15, Ch 35) and an underground refuge, the Root Hollow, hollowed into the limestone ridge the founding oak grows from (Ch 33-36) | LOCKED (Claire, D-012, supersedes D-007) |
 | Singe Protocol: a long-running elder-execution policy, escalated in Moonfall into an area firebombing; ended by the Accord | LOCKED (Claire, D-006) |
 
 ## 4. Craft Decisions
