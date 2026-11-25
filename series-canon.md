@@ -21,7 +21,7 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | --- | --- | --- | --- |
 | 2041 | | Christmas Eve uprising; werewolves revealed | LOCKED (MF Ch 1) |
 | c. 2043 | | Valois establishes vampire rule over New Eden (reigns 52 years) | LOCKED (Bible 6) |
-| 2089 | | Kai Taylor dies, age 12, in Compound Seven | LOCKED (Bible 5, 6) |
+| 2087 | | Kai Taylor dies, age 12, in Compound Seven | LOCKED (Claire, D-013; supersedes Bible 2089) |
 | 2090 | AE 0 | Moonfall: Eternal Accord signed; Caleb and Ayla marry | LOCKED (Bible 6, 8) |
 | 2095 | AE 5 | Eternal Night: 85-day operation; liberation of New Eden; Valois escapes | LOCKED (Bible 6, 8) |
 | 2096 | AE 6 | Finn Barrett's hybrid transformation, age 42 | LOCKED (Bible 8) |
@@ -46,7 +46,7 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | Ayla Moreno | Werewolf | Born 2066 (24 in 2090; 32 in BR); father Alec Moreno and brother Daniel killed in 2080 | MF, BR |
 | Esme Thomas | Human | Married to Rory Taylor; soldier, then commander, then stateswoman | MF, EN, BR |
 | Erik Ryder | Human | Order commander; field camp, not Lunaria hospital; executed in MF | MF, EN (memory) |
-| Rory Taylor | Human | Aurora Taylor; born c. 2071; 24 in EN; born in Compound Seven; parents David and Sara Taylor (executed); brother Kai (died 2089, age 12); six years smuggling via the Grey Zone | EN, BR |
+| Rory Taylor | Human | Aurora Taylor; born c. 2071; 24 in EN; born in Compound Seven; parents David and Sara Taylor (executed); brother Kai (died 2087, age 12, born c. 2075); eight years smuggling via the Grey Zone | EN, BR |
 | Anton Castellan | Vampire | 200+ years; daughter Lena died c. 250 years ago, age 17 ("Individual action matters, Father"); 52 years serving Valois | EN, BR |
 | Sebastian Larsen | Vampire | 150+ years; economist and administrator | EN, BR |
 | Octavius Valois | Vampire | Governor of New Eden; captured, not killed, in BR | EN, BR |
@@ -61,7 +61,7 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | Elder Tobias Finch | Werewolf | Verdant Council elder; witnesses the Accord; dies in MF Ch 48 | MF, BR (memory) |
 | Dr Cassius Briggs | Vampire | Valois's medical overseer | EN |
 | Governor Patricia Morrison | Human | Northern Territories | BR |
-| Elena Greaves | Human | Resistance leader | EN |
+| Elena Greaves | Human | Resistance leader; in her 60s (D-014) | EN |
 
 ## 4. Places
 

@@ -44,7 +44,7 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | Finn Barrett | Hand tremor | From the barrier demolition (Ch 46) | LOCKED (Bible 5) - not yet on the page |
 | Elder Tobias Finch | Death | Ch 48 | LOCKED (manuscript) |
 | Rory Taylor | Name | Aurora Taylor, called Rory | LOCKED (Bible 9) |
-| Kai Taylor | Death | Age 12, in 2089 | LOCKED (Bible 5) |
+| Kai Taylor | Death | Age 12, in 2087 (eight years before EN Day 0) | LOCKED (Claire, D-013) |
 | Octavius Valois | Rule of New Eden | From 2043; 52 years by 2095 | LOCKED (Bible 6) |
 
 ## 3. World Rules

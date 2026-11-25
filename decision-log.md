@@ -6,6 +6,11 @@ Every canon decision, newest first. When Claire decides something, record it her
 
 - **XBK note for Blood Reckoning (flagged from Moonfall Phase 11, 25 November 2026):** Moonfall plants Finn's protein-variant discovery as a two-part seed across the manuscript: the three Lunaria human subjects in Ch 21 (unexplained protein variant, adjacent to a classified pre-consolidation study he half-remembers), and the six New Eden trade witnesses in the Epilogue (same unknown biological protein marker, no human or werewolf analogue). Moonfall's own text now explicitly connects these two findings to each other (Epilogue edit, Phase 11). When BR Chs 20-21's Compound Eight scene is revised, Nina/Finn's presentation there should explicitly recall both earlier Moonfall findings, so the Compound Eight discovery reads as the payoff of a long-planted seed rather than a third, unlinked finding. Not yet actioned: Blood-Reckoning-Revision's GitHub repo exists but is currently empty, so this can only be checked against `br_complete.docx` for now, not against live chapter files.
 
+## Confirmed Decisions (25 November 2026, Eternal Night)
+
+- **D-013 Kai's death and the Taylor family timeline:** Kai died in 2087, aged 12, eight years before EN Day 0 (2095). Rory (born c. 2071) is 24 in EN and was 16 when he died. Kai was born c. 2075, four years younger than Rory. Arrest: Rory 10, Kai 6; execution two years later (Rory 12, Kai 8). Rory began smuggling the day after Kai's funeral, so she has been smuggling **eight** years (not six). In BR (2098) Kai died **eleven** years ago (not nine). **Applied:** Moonfall Epilogue (three "six years" references changed to eight). **To apply:** EN Prologue, Ch 4, Ch 32 (EN revision); BR "nine years ago" lines (BR revision; BR repo is empty).
+- **D-014 Elena Greaves's age:** in her 60s. She was born after Valois took power (c. 2043) and so has no personal memory of freedom; lines in which she remembers it (EN Prologue P47, Ch 1, Ch 12) change to second-hand knowledge. Exact age, her husband's death and her service history to be set in the EN revision.
+
 ## Confirmed Decisions (25 November 2026)
 
 - **D-012 Sanctuary's physical form, superseding D-007:** the sanctuary has two levels, not canopy throughout. The canopy settlement (Ch 5-15, and Ch 35's "eleven years hiding in a canopy") stands as written. Ch 33-36's rock, tunnel and bioluminescent-panel language is kept, but recast as a second, underground refuge beneath it, named the Root Hollow: a chamber system hollowed into a limestone ridge from which the settlement's founding oak grows, reached by a stair cut into the trunk where the wood gives way to stone. Established in Ch 32 (Naomi's arrival) and Ch 33 (opening line). **Bible action:** moonfall.md's sanctuary-form row updated to match; D-007's "canopy throughout" wording retired.
@@ -30,8 +35,8 @@ Recorded from earlier revision sessions.
 - **Names:** all renames in `reserved-names.md` are confirmed.
 - **Hybrid viability:** 60% is canon; 40% is the failure rate.
 - **Caleb and Ayla:** married 2090; 8 years married in BR (2098); Caleb born 2061, 37 in BR.
-- **Kai Taylor:** died aged 12. "Six years ago" in EN (2095); "nine years ago" in BR (2098).
-- **Rory's parents:** arrested when Rory was 10 (Kai 6) and executed two years later; Rory's mother was publicly executed; the resistance taught both Rory and Kai to read.
+- **Kai Taylor:** died aged 12. "Eight years ago" in EN (2095); "eleven years ago" in BR (2098) (revised by D-013).
+- **Rory's parents:** arrested when Rory was 10 (Kai 6) and executed two years later (Rory 12, Kai 8); Rory's mother was publicly executed; the resistance taught both Rory and Kai to read.
 - **New Eden:** six active compounds (Two, Four, Five, Six, Seven, Eight); about 42,000 humans; 3,000 vampires; High Spire 50 storeys, throne room floor 48, Sebastian on floor 45.
 - **Blood Harvest:** the 840,000-litre weekly figure is Valois's propaganda; the true figure is exposed in BR.
 - **Vampire weaknesses:** silver and sunlight affect vampires; the manuscripts are primary canon.
