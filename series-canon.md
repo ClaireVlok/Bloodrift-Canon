@@ -92,4 +92,8 @@ Status key: **LOCKED** = confirmed by the Bible or by Claire. **DECISION NEEDED*
 | Hybrid viability: 60% success, 40% failure | LOCKED |
 | Common origin: 99.4% genetic similarity, published in BR as The Single Species | LOCKED |
 | The Memorial Wall is remembrance and accountability, never a victory monument | LOCKED |
+| Lunaria did not know vampires existed before Rory's testimony (EN Prologue) | LOCKED (Claire, D-024) |
+| True weekly blood need for New Eden's vampires: about 700 litres (3,000 vampires, about 0.25 litres each) | LOCKED (Claire, D-024) |
+| The Memorial Wall excludes loyalist dead (1,012 names); loyalists are recorded separately | LOCKED (Claire, D-024) |
+| Vampires veil or keep to shade in direct sunlight at the EN dawn memorial; there is no sunlight drug | LOCKED (Claire, D-024) |
 | The Singe Protocol: a long-running Order policy of executing settlement elders, escalated in Moonfall into an area firebombing; ended by the Accord | LOCKED (Claire, D-006) |
